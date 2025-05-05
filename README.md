@@ -53,7 +53,8 @@ I can handle side-discussions without derailing the main chat.
 Rich Integrations
 GitHub, Google Drive, Zoom, etc. notifications and actions all live right in my workspace.
 
-###App I would create
+### App I would create
+
 Belu is a gamified language‐learning app designed specifically for African languages—from Swahili and Yoruba to Zulu and Amharic—combining bite-sized lessons with rich cultural context. Users progress through levels of vocabulary, grammar drills, and pronunciation exercises powered by speech-recognition feedback, while an AI chat companion lets them practice real-world dialogues (e.g., market bargaining or greeting elders). To deepen cultural immersion, Belu weaves in folk stories, music clips, proverbs, and region-specific dialect modules, and it rewards learners with badges, streaks, and community challenges. Key features include:
 
 Spaced-Repetition Flashcards & Offline Downloads for on-the-go study without connectivity.
